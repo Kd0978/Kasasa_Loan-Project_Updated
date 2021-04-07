@@ -1,0 +1,13 @@
+<dataset>
+  <tbl_loan
+    id="1"
+    name="Test"
+    ssn="SSN-Test-1"
+    dob="2021-04-06 00:00:00"
+    loan_amount="2500.0"
+    rate="12.0"
+    type="0"
+    term="100"
+    apr="4380.0"
+  />
+</dataset>
